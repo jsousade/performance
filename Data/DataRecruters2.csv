@@ -1,0 +1,11 @@
+firstName,middleName,lastNameSantos,email,contactNumber,keywords,comment,dateOfApplication,consentToKeepData,vacancyId
+Ricardo,Antonio,Solis,ricardoa@gmail.com,null,null,null,2025-02-05,false,1
+Maria,Meli,DosSantos,maria@gmail.com,null,null,null,2025-02-05,false,2
+Hector,Lee,Contreras,hector@gmail.com,null,null,null,2025-02-05,false,3
+Jose,Rene,Artes,jose@gmail.com,null,null,null,2025-02-05,false,4
+Milan,Emil,Burgo,milan@gmail.com,null,null,null,2025-02-05,false,6
+Emilia,Ness,Bester,emilia@gmail.com,null,null,null,2025-02-05,false,6
+Nolan,Anel,Sossa,nolan@gmail.com,null,null,null,2025-02-05,false,7
+Marco,Lester,Bare,marco@gmail.com,null,null,null,2025-02-05,false,5
+Liz,Edith,Mello,lis@gmail.com,null,null,null,2025-02-05,false,1
+Nixandra,Amyr,Toles,nix@gmail.com,null,null,null,2025-02-05,false,0
